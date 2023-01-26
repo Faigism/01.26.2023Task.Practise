@@ -1,0 +1,14 @@
+C:\Users\faiqi\source\repos\01.26.2023Task\01.26.2023Task\bin\Debug\netcoreapp3.1\01.26.2023Task.exe
+C:\Users\faiqi\source\repos\01.26.2023Task\01.26.2023Task\bin\Debug\netcoreapp3.1\01.26.2023Task.deps.json
+C:\Users\faiqi\source\repos\01.26.2023Task\01.26.2023Task\bin\Debug\netcoreapp3.1\01.26.2023Task.runtimeconfig.json
+C:\Users\faiqi\source\repos\01.26.2023Task\01.26.2023Task\bin\Debug\netcoreapp3.1\01.26.2023Task.runtimeconfig.dev.json
+C:\Users\faiqi\source\repos\01.26.2023Task\01.26.2023Task\bin\Debug\netcoreapp3.1\01.26.2023Task.dll
+C:\Users\faiqi\source\repos\01.26.2023Task\01.26.2023Task\bin\Debug\netcoreapp3.1\01.26.2023Task.pdb
+C:\Users\faiqi\source\repos\01.26.2023Task\01.26.2023Task\obj\Debug\netcoreapp3.1\01.26.2023Task.csproj.AssemblyReference.cache
+C:\Users\faiqi\source\repos\01.26.2023Task\01.26.2023Task\obj\Debug\netcoreapp3.1\01.26.2023Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faiqi\source\repos\01.26.2023Task\01.26.2023Task\obj\Debug\netcoreapp3.1\01.26.2023Task.AssemblyInfoInputs.cache
+C:\Users\faiqi\source\repos\01.26.2023Task\01.26.2023Task\obj\Debug\netcoreapp3.1\01.26.2023Task.AssemblyInfo.cs
+C:\Users\faiqi\source\repos\01.26.2023Task\01.26.2023Task\obj\Debug\netcoreapp3.1\01.26.2023Task.csproj.CoreCompileInputs.cache
+C:\Users\faiqi\source\repos\01.26.2023Task\01.26.2023Task\obj\Debug\netcoreapp3.1\01.26.2023Task.dll
+C:\Users\faiqi\source\repos\01.26.2023Task\01.26.2023Task\obj\Debug\netcoreapp3.1\01.26.2023Task.pdb
+C:\Users\faiqi\source\repos\01.26.2023Task\01.26.2023Task\obj\Debug\netcoreapp3.1\01.26.2023Task.genruntimeconfig.cache
